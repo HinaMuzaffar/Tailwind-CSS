@@ -1,2 +1,2 @@
 # Tailwind-CSS
-Learning Tailwind CSS using cdn
+Learning Tailwind CSS
